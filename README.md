@@ -55,5 +55,19 @@ Automation and Scheduling:
 
 By following this plan, the software tool will provide valuable insights into repository activity, helping users understand commit patterns, identify active contributors, and maintain healthy repositories.
 
+#
+
+<details><summary>GitHub Commit Analysis with Python and OpenAI's GPT-4 Turbo</summary>
+<br>
+
+The included concept Python program is developed to streamline the process of analyzing commit messages from any GitHub repository, utilizing OpenAI's powerful GPT-4 Turbo model. By integrating several key libraries such as requests for HTTP requests, tkinter for the graphical user interface (GUI), and openai for AI-driven analysis, the program offers an intuitive and efficient way for users to gain insights into the changes and developments within a codebase. Users can simply input the URL of a GitHub repository, and with the click of a button, the program fetches the commit data and generates a detailed analysis report, providing a comprehensive overview of the project's progress and areas of focus.
+
+The core functionality of the program revolves around fetching commit data from the GitHub API and analyzing the commit messages using OpenAI's GPT-4 Turbo. This involves transforming the standard GitHub URL into an API endpoint, retrieving the commit history, and compiling the messages into a format suitable for AI analysis. The analysis process leverages GPT-4 Turbo's advanced natural language processing capabilities to interpret and summarize the commit messages, highlighting key themes, trends, and noteworthy changes. This can be particularly useful for project managers, developers, and teams looking to quickly understand the evolution of a project, identify significant updates, and spot potential issues or areas for improvement.
+
+The program's user interface, built with tkinter, ensures ease of use and accessibility. The GUI includes a text entry field for the GitHub repository URL, a button to initiate the analysis, and a scrolled text widget to display the results. This straightforward design makes the tool accessible to users with varying levels of technical expertise. Additionally, the use of tkinter allows for future enhancements and customizations, such as adding advanced error handling, supporting large repositories with pagination, or incorporating additional analytical features. Overall, this program represents a practical and innovative solution for leveraging AI to gain deeper insights into software development processes.
+
+<br>
+</details>
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
