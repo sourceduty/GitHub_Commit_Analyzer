@@ -23,9 +23,10 @@ Data Processing:
 
 Analysis Engine:
 - Develop an analysis engine to perform various analyses on the commit data. This includes:
-  - Commit Frequency Analysis: Calculate daily, weekly, and monthly commit frequencies for each repository.
-  - Contributor Analysis: Identify active contributors, their commit counts, and patterns of contribution over time.
-  - File Change Analysis: Determine which files are most frequently modified and the nature of these modifications (e.g., additions, deletions).
+  
+- Commit Frequency Analysis: Calculate daily, weekly, and monthly commit frequencies for each repository.
+- Contributor Analysis: Identify active contributors, their commit counts, and patterns of contribution over time.
+- File Change Analysis: Determine which files are most frequently modified and the nature of these modifications (e.g., additions, deletions).
 
 Report Generation:
 - Design templates for the Commit Analysis Report. The report will include visualizations such as graphs and charts to represent commit frequencies, contributor activity, and file change patterns.
