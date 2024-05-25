@@ -56,6 +56,7 @@ Automation and Scheduling:
 By following this plan, the software tool will provide valuable insights into repository activity, helping users understand commit patterns, identify active contributors, and maintain healthy repositories.
 
 #
+### Python Concept
 
 <details><summary>GitHub Commit Analysis with Python and OpenAI's GPT-4 Turbo</summary>
 <br>
